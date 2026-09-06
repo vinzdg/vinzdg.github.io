@@ -3,12 +3,12 @@
     <channel>
         <title>Codenotch</title>
         <item>
-            <title>1.4.0</title>
+            <title>1.4.1</title>
             <pubDate>Sun, 06 Sep 2026 11:34:09 +0700</pubDate>
-            <sparkle:version>5</sparkle:version>
-            <sparkle:shortVersionString>1.4.0</sparkle:shortVersionString>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>1.4.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://hivinz.com/Codenotch.dmg" length="5050275" type="application/octet-stream" sparkle:edSignature="47mDLR9gISThH35HRhFn1WVWJ4l4/WXY3EDuslQzkDYjNAaDTbjEcz5Dr1IvOrbLoAzrH8FW0CSAnIbTjCj4CQ=="/>
+            <enclosure url="https://hivinz.com/Codenotch.dmg" length="5050987" type="application/octet-stream" sparkle:edSignature="jigBKh6kDvOL3UqF5pV9MWPqVMLV77nk+GtXodASOq5LojIFm4emhhIAMtLFDhUT66QvJnGiFf3bVuRlkd3fBQ=="/>
         </item>
     </channel>
 </rss>
